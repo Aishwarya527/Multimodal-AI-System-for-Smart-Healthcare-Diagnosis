@@ -1,0 +1,28 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Node
+node_modules/
+
+# ML models (CRITICAL)
+backend/models/
+*.h5
+*.pkl
+*.bin
+*.pt
+*.onnx
+*.safetensors
+
+# Generated outputs
+backend/reports/
+backend/static/gradcam/
+
+# Data
+*.csv
+
+# OS
+.DS_Store
+Thumbs.db
