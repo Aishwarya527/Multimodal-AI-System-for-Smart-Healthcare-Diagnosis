@@ -9,12 +9,4 @@ flask_cors
 transformers
 numpy
 io
-pickle
-cv2
-uuid
-os
-datetime
-reportlab
-whisper
-tempfile
 torch
