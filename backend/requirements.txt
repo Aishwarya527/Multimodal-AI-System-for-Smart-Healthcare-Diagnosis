@@ -8,4 +8,6 @@ flask
 flask_cors
 transformers
 numpy
+tensorflow
+opencv-python-headless
 
