@@ -7,7 +7,6 @@ gunicorn
 flask
 flask_cors
 transformers
-tensorflow
 numpy
 PIL
 io
