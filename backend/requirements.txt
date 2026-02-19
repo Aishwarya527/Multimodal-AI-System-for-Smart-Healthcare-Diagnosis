@@ -8,7 +8,6 @@ flask
 flask_cors
 transformers
 numpy
-PIL
 io
 pickle
 cv2
