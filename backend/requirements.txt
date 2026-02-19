@@ -6,3 +6,17 @@ pillow
 gunicorn
 flask
 flask_cors
+transformers
+tensorflow
+numpy
+PIL
+io
+pickle
+cv2
+uuid
+os
+datetime
+reportlab
+whisper
+tempfile
+torch
